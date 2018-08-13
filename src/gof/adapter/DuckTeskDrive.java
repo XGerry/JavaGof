@@ -1,4 +1,4 @@
-package gof.Adapter;
+package gof.adapter;
 
 public class DuckTeskDrive {
     public static void main(String[] args) {

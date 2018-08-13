@@ -1,4 +1,4 @@
-package gof.Adapter;
+package gof.adapter;
 
 public class WildTurkey implements Turkey {
     @Override
